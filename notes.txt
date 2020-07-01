@@ -1,2 +1,5 @@
 Part 1: The basics of Git 
-*git is used for version control
+* Git is used for version control
+
+Part 2: Create a new repository from the command line
+* use git init ./ to initialize new repository
